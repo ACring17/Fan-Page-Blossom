@@ -16,9 +16,21 @@ html {
 }
 
 #navLinks {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: xx-large;
+    z-index: 1;
+}
+
+#navLinks li {
     display: inline;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     color: #dddddd;
+    width: 100%;
 }
