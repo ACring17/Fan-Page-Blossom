@@ -15,6 +15,14 @@ html {
     background-size: cover;
 }
 
+#intro h1 {
+    text-align: center;
+    margin-top: 90px;
+}
+
+
+/*Styling for the link position*/
+
 #navLinks {
     display: block;
     padding: 10px;
@@ -27,12 +35,14 @@ html {
     background-color: rgb(230, 195, 217);
 }
 
+
+/* Styling for the individual link items*/
+
 #navLinks li {
     display: inline;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    color: #dddddd;
     width: 100%;
 }
 
@@ -42,5 +52,16 @@ html {
 
 #navLinks li a:hover {
     color: rgb(220, 100, 164);
-    background-color: rgb(122, 0, 122);
+    background-color: rgb(71, 14, 71);
+}
+
+#mainLogo {
+    display: block;
+    margin: 60px auto 1px;
+}
+
+#mainHeadShot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
