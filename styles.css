@@ -24,6 +24,7 @@ html {
     width: 100%;
     font-size: xx-large;
     z-index: 1;
+    background-color: rgb(230, 195, 217);
 }
 
 #navLinks li {
