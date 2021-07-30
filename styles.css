@@ -34,3 +34,12 @@ html {
     color: #dddddd;
     width: 100%;
 }
+
+#navLinks a {
+    text-decoration: none;
+}
+
+#navLinks li a:hover {
+    color: rgb(220, 100, 164);
+    background-color: rgb(122, 0, 122);
+}
