@@ -27,6 +27,12 @@ h2 {
     margin-left: 40px;
 }
 
+p {
+    /*Add a solid background color to make it easier to read the content*/
+    margin-left: 60px;
+    font-size: 20px;
+}
+
 /*Styling for the link position*/
 
 #navLinks {
