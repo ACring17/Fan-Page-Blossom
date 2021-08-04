@@ -68,6 +68,11 @@ p {
     padding: 10px .5px;
 }
 
+#navLinks img {
+    height: 30px;
+    width: 40px;
+}
+
 #mainLogo {
     display: block;
     margin: 60px auto 1px;
