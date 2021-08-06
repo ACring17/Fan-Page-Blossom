@@ -83,3 +83,10 @@ p {
     display: block;
     margin: 20px auto 0px;
 }
+
+#stage-blossom {
+    display: block;
+    margin: 90px auto 20px;
+    height: 400px;
+    width: 325px;
+}
