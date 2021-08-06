@@ -60,12 +60,12 @@ p {
 
 #navLinks a {
     text-decoration: none;
-    color: rgb(100, 0, 100);
+    color: rgb(160, 0, 160);
 }
 
 #navLinks li a:hover {
     color: rgb(220, 100, 164);
-    background-color: rgb(100, 0, 100);
+    background-color:rgb(160, 0, 160);
     padding: 10px .5px;
 }
 
