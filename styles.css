@@ -84,6 +84,13 @@ p {
     margin: 20px auto 0px;
 }
 
+#tour-dates {
+    display: block;
+    margin: auto;
+    width: 526px;
+    height: 701px;
+}
+
 #stage-blossom {
     display: block;
     margin: 90px auto 20px;
