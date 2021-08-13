@@ -30,7 +30,7 @@ h2 {
 
 p {
     /*Add a solid background color to make it easier to read the content*/
-    margin-left: 60px;
+    margin: auto 60px;
     font-size: 20px;
 }
 
