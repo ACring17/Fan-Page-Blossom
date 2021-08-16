@@ -17,6 +17,7 @@ html {
 
 h1 {
     text-align: center;
+    margin-top: 0px;
     font-family: 'Galada', cursive;
     font-size: 55px;
 }
@@ -33,6 +34,7 @@ p {
     margin: auto 60px;
     font-size: 20px;
 }
+
 
 /*Styling for the link position*/
 
@@ -66,14 +68,18 @@ p {
 
 #navLinks li a:hover {
     color: rgb(245, 129, 191);
-    background-color:rgb(160, 0, 160);
+    background-color: rgb(160, 0, 160);
     padding: 10px .5px;
 }
 
 #navLinks img {
     height: 30px;
-    width: 40px;
+    width: 30px;
+    align-content: center;
 }
+
+
+/* Styling for index images */
 
 #mainLogo {
     display: block;
@@ -91,6 +97,9 @@ p {
     width: 626px;
     height: 801px;
 }
+
+
+/* About Blossom IDs*/
 
 #background-block {
     background-color: rgb(230, 195, 217);
@@ -126,6 +135,7 @@ p {
 .mySlides {
     display: none;
 }
+
 
 /* Fading animation */
 
