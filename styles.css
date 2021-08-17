@@ -30,9 +30,9 @@ h2 {
 }
 
 p {
-    /*Add a solid background color to make it easier to read the content*/
     margin: auto 60px;
     font-size: 20px;
+    text-indent: 20px;
 }
 
 
