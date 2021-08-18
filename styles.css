@@ -96,6 +96,8 @@ p {
     margin: auto;
     width: 626px;
     height: 801px;
+    border: 5px solid;
+    border-color: rgb(160, 0, 160);
 }
 
 
