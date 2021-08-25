@@ -57,7 +57,15 @@
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-
+     #navLinks {
+        text-align: center;
+        position: fixed;
+        font-size: medium;
+        padding: 6px;
+    }
+    #navLinks li {
+        padding: 10px 6px;
+    }
 }
 
 /* Portrait */
@@ -66,7 +74,15 @@
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) { 
-
+     #navLinks {
+        text-align: center;
+        position: fixed;
+        font-size: medium;
+        padding: 6px;
+    }
+    #navLinks li {
+        padding: 10px 6px;
+    }
 }
 
 /* Landscape */
@@ -75,7 +91,15 @@
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
-
+     #navLinks {
+        text-align: center;
+        position: fixed;
+        font-size: medium;
+        padding: 6px;
+    }
+    #navLinks li {
+        padding: 10px 6px;
+    }
 }
 
 /* ----------- iPhone X ----------- */
