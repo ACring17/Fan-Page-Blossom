@@ -9,6 +9,10 @@
         text-align: center;
         position: fixed;
         font-size: medium;
+        padding: 6px;
+    }
+    #navLinks li {
+        padding: 10px 6px;
     }
 }
 
@@ -22,8 +26,11 @@
         text-align: center;
         position: fixed;
         font-size: medium;
+        padding: 6px;
     }
-
+    #navLinks li {
+        padding: 10px 6px;
+    }
 }
 
 /* Landscape */
@@ -36,6 +43,10 @@
         text-align: center;
         position: fixed;
         font-size: medium;
+      padding: 6px;
+    }
+     #navLinks li {
+        padding: 10px 6px;
     }
 }
 
