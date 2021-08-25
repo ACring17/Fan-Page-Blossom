@@ -5,7 +5,11 @@
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
-
+    #navLinks {
+        text-align: center;
+        position: fixed;
+        font-size: medium;
+    }
 }
 
 /* Portrait */
@@ -14,6 +18,11 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) { 
+    #navLinks {
+        text-align: center;
+        position: fixed;
+        font-size: medium;
+    }
 
 }
 
@@ -23,7 +32,11 @@
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) { 
-
+    #navLinks {
+        text-align: center;
+        position: fixed;
+        font-size: medium;
+    }
 }
 
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
