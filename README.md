@@ -6,7 +6,7 @@ A Phoenix, Arizona based DJ that is starting to blow up in popularity and go on 
 ## Technologies used:
 * HTML
 * CSS
-# JavaScript
+* JavaScript
 
 Click here to visit the live website: https://acring17.github.io/Fan-Page-Blossom/
 
